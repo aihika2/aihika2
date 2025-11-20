@@ -1,3 +1,10 @@
+---
+layout: default
+title: Logo page
+description: This is page about logo
+---
+### header
+
 <img src = 'https://raw.githubusercontent.com/aihika2/aihika2/refs/heads/main/assets/img/logo_snowman.png'>
 
 ![logo_snowman](https://raw.githubusercontent.com/aihika2/aihika2/refs/heads/main/assets/img/logo_snowman.png)
