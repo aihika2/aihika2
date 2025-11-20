@@ -1,5 +1,6 @@
 # Header 1
-
+<a href="/logo-page.html">PAGE</a>
+<a href="/logo-page.md/">Blog</a>
 ## Header 2
 
-![img](https://github.com/aihika2/aihika2/blob/main/assets/img/logo_snowman.png)
+![logo_snowman](https://raw.githubusercontent.com/aihika2/aihika2/refs/heads/main/assets/img/logo_snowman.png))
